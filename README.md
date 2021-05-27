@@ -6,7 +6,7 @@
    - run `npm install`;
    - run `npm init`
 4. Install Webpack:
-   - run `npm i -D webpack webpack-cli`;
+   - run `npm i -D webpack webpack-cli webpack-dev-server`;
    - create `webpack.config.js`;
    - create `./src/index.ts` file
 5. Install TypeScript:
