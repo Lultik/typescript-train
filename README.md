@@ -13,7 +13,7 @@
    - run `npm i -D typescript ts-loader`;
    - run `tsc --init`;
 6. Setting Webpack:
-   - run `npm i -D html-webpack-plugin mini-css-extract-plugin css-loader sass-loader copy-webpack-plugin`
+   - run `npm i -D html-webpack-plugin mini-css-extract-plugin css-loader sass-loader sass copy-webpack-plugin`
    - put favicon.ico in `./public/`
    - create `./src/assets/` folder
 7. Install Eslint
